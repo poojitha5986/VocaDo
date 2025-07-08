@@ -85,4 +85,4 @@ Here’s a step-by-step breakdown of how I developed **ZenDo**:
 
 1. **Clone the Repository**
    ```bash
-   git clone https://github.com/poojitha5986/VocaDo.git
+   git clone https://github.com/poojitha5986/ZenDo.git
